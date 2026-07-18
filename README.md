@@ -18,7 +18,7 @@ Logic gates are incorporated to detect the maximum count values and reset the co
 **Design & Development**  
 Software Used
 Altium Designer (Circuit Schematic Design)  
-Hardware Used
+Hardware Used  
 NE555 Timer IC  
 CD4026 Decade  
 Counter ICs  
