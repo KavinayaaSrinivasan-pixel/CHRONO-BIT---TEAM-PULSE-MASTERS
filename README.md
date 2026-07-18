@@ -22,6 +22,7 @@ Design & Development
 
 Software Used
 Altium Designer (Circuit Schematic Design)
+
 Hardware Used
 NE555 Timer IC
 CD4026 Decade Counter ICs
