@@ -16,8 +16,9 @@ The digital clock consists of a NE555 Timer IC configured in astable mode to gen
 Logic gates are incorporated to detect the maximum count values and reset the counters appropriately, ensuring accurate operation in the 24-hour format. The outputs from the counters are directly connected to 7-segment displays, providing a continuous visual representation of time.
 
 **Design & Development**  
-Software Used
-Altium Designer (Circuit Schematic Design)  
+Software Used  
+Altium Designer (Circuit Schematic Design) 
+
 Hardware Used  
 NE555 Timer IC  
 CD4026 Decade  
