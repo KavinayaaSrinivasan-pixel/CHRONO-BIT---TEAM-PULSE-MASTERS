@@ -1,6 +1,6 @@
 Digital Clock Using Discrete Digital ICs
 
-Overview
+Overview:
 This project focuses on the design and implementation of a 24-hour digital clock using discrete digital electronic components, eliminating the need for any microcontroller or programmable device. The objective was to demonstrate the practical application of digital electronics by integrating timing circuits, counters, logic gates, and display modules into a fully functional timekeeping system.
 The circuit schematic was designed using Altium Designer, and the hardware was successfully implemented on a breadboard for testing and validation.
 Objectives
