@@ -17,8 +17,18 @@ Logic gates are incorporated to detect the maximum count values and reset the co
 
 **Design & Development**  
 Software Used
-Altium Designer (Circuit Schematic Design)  Hardware Used
-NE555 Timer IC  CD4026 Decade Counter ICs  AND Logic Gates  7-Segment Displays  Resistors  Capacitors  Breadboard  Wires  Power Supply
+Altium Designer (Circuit Schematic Design)  
+Hardware Used
+NE555 Timer IC  
+CD4026 Decade  
+Counter ICs  
+AND Logic Gates  
+7-Segment Displays  
+Resistors  
+Capacitors  
+Breadboard  
+Wires  
+Power Supply  
 
 **Key Features**  
 24-hour digital time display
